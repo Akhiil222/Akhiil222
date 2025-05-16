@@ -1,21 +1,28 @@
-<h1 align="center">Hi 👋, I'm Akhilesh Kandoria/h1>
-<h3 align="center">A passionate Frontend Developer & Full-Stack Enthusiast from Your Country</h3>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+Akhilesh+Kandoria;Frontend+Developer+from+India" alt="Typing SVG" />
+</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" /> </p>
+<h3 align="center">A passionate Frontend Developer & Full-Stack Enthusiast from India 🇮🇳</h3>
+
+---
+
+### 📌 About Me
 
 - 🎓 I'm a final-year student at **Chitkara University**
-- 🌱 Currently learning **React Native** & exploring **Machine Learning**
-- 💬 Ask me about **JavaScript, React.js, Node.js, Firebase, MongoDB**
-- 🛠️ I love building dynamic UIs & real-time features
+- 🌱 Currently learning **React ** & exploring **Machine Learning**
+- 💬 Ask me about: **JavaScript, React, Node.js, Express.js, Firebase, MongoDB**
+- 🛠 I love building modern UIs & real-time web apps
 - 📫 Reach me at **akhileshkandoria96@gmail.com**
 
-<h2>Connect with me</h2>
+---
+
+### 🤝 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/akhilesh004/)
 
 ---
 
-### 🛠️ Languages and Tools
+### 🚀 Languages and Tools
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" />
@@ -23,10 +30,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" width="40" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="40" />
 </p>
