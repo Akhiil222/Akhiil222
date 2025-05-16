@@ -9,7 +9,7 @@
 ### 📌 About Me
 
 - 🎓 I'm a final-year student at **Chitkara University**
-- 🌱 Currently learning **React ** & exploring **Machine Learning**
+- 🌱 Currently learning and building projects using the MERN Stack (MongoDB, Express.js, React.js, Node.js)
 - 💬 Ask me about: **JavaScript, React, Node.js, Express.js, Firebase, MongoDB**
 - 🛠 I love building modern UIs & real-time web apps
 - 📫 Reach me at **akhileshkandoria96@gmail.com**
